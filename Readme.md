@@ -1,0 +1,1 @@
+**en este archivo se ven todos los datos de cambio**
